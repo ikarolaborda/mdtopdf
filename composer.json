@@ -1,0 +1,21 @@
+{
+    "name": "iclaborda/mdtopdf",
+    "description": "Simple Markdown to PDF Converter Script",
+    "type": "library",
+    "require": {
+        "php": "^8.2",
+        "erusev/parsedown": "^1.7",
+        "dompdf/dompdf": "^3.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ikarolaborda\\mdtopdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ikaro C. Laborda"
+        }
+    ]
+}
