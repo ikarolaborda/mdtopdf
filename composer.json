@@ -1,5 +1,5 @@
 {
-    "name": "iclaborda/mdtopdf",
+    "name": "ikarolaborda/mdtopdf",
     "description": "Simple Markdown to PDF Converter Script",
     "type": "library",
     "require": {
